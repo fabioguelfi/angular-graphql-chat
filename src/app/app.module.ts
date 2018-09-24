@@ -14,7 +14,6 @@ import { HttpClientModule } from '@angular/common/http';
   imports: [
     BrowserAnimationsModule,
     ApolloConfigModule,
-    HttpClientModule,
     MatToolbarModule,
     MatListModule
   ],
